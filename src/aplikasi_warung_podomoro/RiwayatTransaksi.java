@@ -110,7 +110,7 @@ public class RiwayatTransaksi extends javax.swing.JFrame {
                 {null, null, null, null}
             },
             new String [] {
-                "NO", "TANGGAL", "NAMA PRODUK", "JUMLAH TERJUAL"
+                "NO", "TANGGAL", "ID PRODUK", "JUMLAH TERJUAL"
             }
         ) {
             boolean[] canEdit = new boolean [] {

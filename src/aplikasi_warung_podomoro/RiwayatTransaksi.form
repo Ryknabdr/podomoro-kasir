@@ -131,7 +131,7 @@
               <Table columnCount="4" rowCount="4">
                 <Column editable="true" title="NO" type="java.lang.Object"/>
                 <Column editable="true" title="TANGGAL" type="java.lang.Object"/>
-                <Column editable="true" title="NAMA PRODUK" type="java.lang.Object"/>
+                <Column editable="true" title="ID PRODUK" type="java.lang.Object"/>
                 <Column editable="false" title="JUMLAH TERJUAL" type="java.lang.Object"/>
               </Table>
             </Property>
